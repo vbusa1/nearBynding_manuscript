@@ -1,0 +1,14 @@
+domain,G4 signal difference,effect size,p-value
+armadillo,-2.41,0.913,0.00147
+RGG-repeat,1.57,0.592,0.00612
+SAP,0.836,0.312,0.0123
+dsRBD,1.57,0.589,0.0219
+G-patch,1.77,0.662,0.0385
+alpha-beta,0.476,0.178,0.198
+winged-helix,1.88,0.707,0.238
+RRM,0.385,0.144,0.301
+K-homology,-0.384,0.143,0.402
+helicase,0.428,0.16,0.436
+WD40,-0.479,0.179,0.66
+P-loop,0.0385,0.0143,0.935
+zinc finger,0.000907,0.000338,0.999

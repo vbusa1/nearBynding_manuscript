@@ -1,0 +1,75 @@
+# from supplementary data of Ozdilek et al 2017 Nucl. Acids Res.
+AT-hook DNA-binding motif-containing protein 1	di-RGG	AHDC1
+THO complex subunit 4	di-RGG	ALYREF
+amyloid beta A4 precursor protein-binding family A member 2	di-RGG	APBA2
+amyloid beta A4 precursor protein-binding family A member 3	di-RGG	APBA3
+amyloid beta A4 precursor protein-binding family A member 1	di-RGG	APBB1
+cell death regulator Aven	di-RGG	AVEN
+nucleosome-remodeling factor subunit BPTF	di-RGG	BPTF
+bromodomain and WD repeat-containing protein 3	di-RGG	BRWD3
+uncharacterized protein C20orf201	di-RGG	C20orf201
+calmodulin-binding transcription activator 2	di-RGG	CAMTA2
+cat eye syndrome critical region protein 6	di-RGG	CECR6
+chromatin target of PRMT1 protein	tri-RGG	CHTOP
+probable ATP-dependent RNA helicase DDX17	di-RGG	DDX17
+putative ATP-dependent RNA helicase DHX57	di-RGG	DHX57
+segment polarity protein dishevelled homolog DVL-2	di-RGG	DVL2
+RNA-binding protein EWS	tri-RGG	EWSR1
+protein FAM104A	di-RGG	FAM104A
+protein FAM98A	tri-RGG	FAM98A
+protein FAM98B	di-RGG	FAM98B
+rRNA 2'-O-methyltransferase fibrillarin	tri-RGG	FBL
+fragile X mental retardation syndrome-related protein 1	di-RGG	FMR1
+RNA-binding protein FUS	tri-RGG	FUS
+frizzled-8 precursor	di-RGG	FZD8
+H/ACA ribonucleoprotein complex subunit 1	tri-RGG	GAR1
+intracellular hyaluronan-binding protein 4	di-RGG	HABP4
+hemojuvelin	di-RGG	HJV
+heterogeneous nuclear ribonucleoprotein A0	tri-RGG	HNRNPA0
+heterogeneous nuclear ribonucleoprotein A1-like 2	di-RGG	HNRNPA1
+heterogeneous nuclear ribonucleoprotein A1	tri-RGG	HNRNPA1
+heterogeneous nuclear ribonucleoprotein A3	di-RGG	HNRNPA3
+heterogeneous nuclear ribonucleoprotein K	di-RGG	HNRNPK
+heterogeneous nuclear ribonucleoprotein Q	di-RGG	HNRNPQ
+heterogeneous nuclear ribonucleoprotein R	di-RGG	HNRNPR
+heterogeneous nuclear ribonucleoprotein U	tri-RGG	HNRNPU
+heterogeneous nuclear ribonucleoprotein U-like protein 1	di-RGG	HNRNPU1
+interleukin enhancer-binding factor 2	di-RGG	ILF2
+INO80 complex subunit B	di-RGG	INO80B
+"KH domain-containing, RNA-binding, signal transduction-associated prot - Protein - NCBI"	di-RGG	KHDRBS3
+"keratin, type II cytoskeletal 78"	di-RGG	KRT78
+L antigen family member 3	di-RGG	LAGE3
+layilin	di-RGG	LAYN
+protein LSM14 homolog A	tri-RGG	LSM14A
+protein LSM14 homolog B	di-RGG	LSM14B
+E3 ubiquitin-protein ligase MARCH9 precursor	di-RGG	MARCHF4
+methyltransferase-like protein 14	tri-RGG	METTL14
+histone-lysine N-methyltransferase MLL4	tri-RGG	MLL4
+multiple myeloma tumor-associated protein 2	di-RGG	MMTAG2
+nucleolin	tri-RGG	NCL
+NFATC2-interacting protein	di-RGG	NFATC2IP
+"histone-lysine N-methyltransferase, H3 lysine-36 and H4 lysine-20 spec - Protein - NCBI"	di-RGG	NSD1
+plasminogen activator inhibitor 1 RNA-binding protein	tri-RGG	PAI
+PDZ and LIM domain protein 2	di-RGG	PDLIM2
+PDZ domain-containing RING finger protein 4	di-RGG	PDZRN4
+serine/threonine-protein phosphatase 1 regulatory subunit 10	di-RGG	PP1
+protein PRRC2C	di-RGG	PRRC2C
+trypsin-3	di-RGG	PRSS3
+ras-interacting protein 1	di-RGG	RASIP1
+"RNA-binding motif protein, X chromosome"	tri-RGG	RBMx
+RNA-binding protein 33	di-RGG	RBP33
+rho-related GTP-binding protein RhoU	di-RGG	RHOU
+40S ribosomal protein S2	di-RGG	RPS2
+ribonucleoside-diphosphate reductase subunit M2 B	di-RGG	RRM2B
+scaffold attachment factor B2	di-RGG	SAFB2
+"splicing factor, proline- and glutamine-rich"	di-RGG	SFPQ
+shadow of prion protein precursor	di-RGG	SPRN
+serine/arginine-rich splicing factor 9	di-RGG	SRSF9
+TATA-binding protein-associated factor 2N	tri-RGG	TAF15
+ubiquitin-associated protein 2-like	di-RGG	UBAP2L
+protein virilizer homolog	di-RGG	VIRMA
+pre-mRNA 3' end processing protein WDR33	di-RGG	WDR33
+zinc finger CCCH domain-containing protein 4	di-RGG	ZC3H4
+zinc finger CCHC domain-containing protein 13	di-RGG	ZCCHC13
+zinc finger protein 142	di-RGG	ZNF142
+zinc finger protein 768	di-RGG	ZNF768
